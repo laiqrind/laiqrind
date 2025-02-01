@@ -1,6 +1,3 @@
 
 # Hi there, I'm Laiq Rind 👋
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/laiqrind/laiqrind/main/devcard.svg" width="400" alt="Laiq Rind's Dev Card"/>
-</div>
+<a href="https://app.daily.dev/laiqrind"><img src="https://api.daily.dev/devcards/v2/n3F81xxJqGYGdvGWCCRo5.png?type=wide&r=bds" width="652" alt="Laiq Rind's Dev Card"/></a>
