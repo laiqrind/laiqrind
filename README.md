@@ -8,7 +8,7 @@ I currently holds a Master's Degree in Software Development Lifecycle. I have fo
 
 * 🌍  I'm based in Sydney, Australia and actively looking for a work.
 * 🖥️  See my portfolio at [My profile](https://laiqrind.dev)
-* ✉️  You can contact me at [laiqrind@icloud.com](mailto:mail@laiqrind.dev)
+* ✉️  You can contact me at [mail@laiqrind.dev](mailto:mail@laiqrind.dev)
 
 ### Skills
 
