@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/laiqrind"><img src="https://api.daily.dev/devcards/v2/n3F81xxJqGYGdvGWCCRo5.png?type=default&r=1sk" width="356" alt="Laiq Rind's Dev Card"/></a>
+<a href="https://app.daily.dev/laiqrind"><img src="https://api.daily.dev/devcards/v2/n3F81xxJqGYGdvGWCCRo5.png?type=wide&r=myr" width="652" alt="Laiq Rind's Dev Card"/></a>
