@@ -7,8 +7,8 @@ Developer & DIY Homelab Enthusiast
 I currently holds a Master's Degree in Software Development Lifecycle. I have four year plus overseas work experience as a DotNet and HTML Developer.
 
 * 🌍  I'm based in Sydney, Australia and actively looking for a work.
-* 🖥️  See my portfolio at [My profile](https://laiqrind.dev)
-* ✉️  You can contact me at [mail@laiqrind.dev](mailto:mail@laiqrind.dev)
+* 🖥️  See my portfolio at [My profile](https://laiqrind.info)
+* ✉️  You can contact me at [mail@laiqrind.me](mailto:mail@laiqrind.me)
 
 ### Skills
 
